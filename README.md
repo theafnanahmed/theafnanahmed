@@ -5,14 +5,7 @@
 
   <br><br>
 
-  <!-- CUSTOM TECH NODES BACKGROUND BANNER -->
-  <img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="border-radius: 14px; border: 2px solid #00F5FF; box-shadow: 0 0 20px rgba(0,245,255,0.4);" alt="Custom Cyber Tech Nodes Circuit Background" />
-
   <br><br>
-
-  <!-- Animated Holographic Core GIF -->
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="160" alt="3D Holographic Core" />
-
   <br><br>
 
   <!-- Glowing Typing Header SVG -->
@@ -33,10 +26,7 @@
 
 <br>
 
-<!-- CUSTOM TECH NODES BACKGROUND DIVIDER -->
-<img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 8px;" alt="Tech Nodes Divider" />
 
-<br><br>
 
 ### ⚡ 𝐒𝐘𝐒𝐓𝐄𝐌_𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘 ( 𝐀𝐝𝐦𝐢𝐧 _ Ｐｒｏｆｉｌ𝑒 )
 
@@ -74,9 +64,6 @@
 </table>
 
 <br>
-
-<!-- CUSTOM TECH NODES BACKGROUND DIVIDER -->
-<img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 8px;" alt="Tech Nodes Divider" />
 
 <br><br>
 
@@ -120,8 +107,6 @@
 
 <br>
 
-<!-- CUSTOM TECH NODES BACKGROUND DIVIDER -->
-<img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 8px;" alt="Tech Nodes Divider" />
 
 <br><br>
 
@@ -137,9 +122,6 @@
 </p>
 
 <br>
-
-<!-- CUSTOM TECH NODES BACKGROUND DIVIDER -->
-<img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 8px;" alt="Tech Nodes Divider" />
 
 <br><br>
 
@@ -186,8 +168,6 @@
 
 <br>
 
-<!-- CUSTOM TECH NODES BACKGROUND DIVIDER -->
-<img src="https://raw.githubusercontent.com/theafnanahmed/theafnanahmed/main/assets/tech_nodes_bg.jpg" width="100%" style="max-height: 80px; object-fit: cover; border-radius: 8px;" alt="Tech Nodes Divider" />
 
 <br><br>
 

@@ -1,61 +1,51 @@
-<!-- Animated 3D Waving Banner with Twinkling Stars -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f4c81&height=250&section=header&text=Afnan's%20Universe&fontSize=50&fontColor=00FFFF&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Founder%20@%20TechOrbit&descAlignY=75&descColor=FFFFFF" width="100%" />
-
 <div align="center">
-  <!-- Neon Typing Effect (Transparent & Seamless) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);Developing+APIShare;Building+AI+Assistant+'Affu';Architecting+TechOrbit;Exploring+Data+Science" alt="Typing Animation" />
+  <!-- 3D Rotating Tech Core / Hologram Illusion -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRjZTRiYjI0ZDRiM2JiYjRhYjU2YjM4YjZjYmZkY2QwMThkYjQ2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o7TKSjRrfIPjeiVyM/giphy.gif" width="200" alt="3D Hologram Core" />
+
+  <h1 align="center"> 𝐀 𝐅 𝐍 𝐀 𝐍 </h1>
+  <h3 align="center"> █ 10 Years Ahead of the Curve █ </h3>
+  <p align="center">
+    <b>System Architect | Founder @ TechOrbit | AI Developer</b>
+  </p>
 </div>
 
----
+<br>
 
-### 👨‍💻 𝐌𝐢𝐬𝐬𝐢𝐨𝐧 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 (𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞)
-
-<!-- Pro-level 2-Column Dashboard Layout -->
-<table align="center" width="100%" style="background-color: transparent;">
+<table align="center" width="100%" style="background-color: transparent; border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🔭 Current Operations</h4>
-      <ul>
-        <li>🚀 <b>TechOrbit:</b> Founder & Lead Developer</li>
-        <li>🤖 <b>Affu:</b> Architecting Personal AI Assistant</li>
-        <li>🌐 <b>APIShare:</b> Full-Stack Web Development</li>
-        <li>🪙 <b>FileXcoin:</b> Preparing for upcoming launch</li>
-      </ul>
+    <td width="30%" align="center" style="border: none;">
+      <!-- AAPKI PHOTO YA VIDEO GIF YAHAN AAYEGI -->
+      <img src="YOUR_PHOTO_OR_VIDEO_LINK_HERE" width="220" style="border-radius: 50%; border: 3px solid #00FF9D; box-shadow: 0 0 25px #00FF9D;" alt="Afnan's Visual Profile" />
     </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🧠 Knowledge Base</h4>
-      <ul>
-        <li>💻 <b>Domain:</b> Full-Stack Web Architecture</li>
-        <li>📊 <b>Data Science:</b> Air Quality Analysis (India '15-'20)</li>
-        <li>🐧 <b>Infra:</b> Linux Ecosystems & Personal Servers</li>
-        <li>⚡ <b>Core:</b> React, Python, UI/UX Design</li>
-      </ul>
+    <td width="70%" style="border: none;">
+      <h3> 👁️‍🗨️ Master Override Initiated </h3>
+      <p>
+        Welcome to the command center. I don't just write code; I engineer ecosystems. Currently orchestrating the architecture of <b>APIShare</b> and training my personal AI entity, <b>Affu</b>. 
+      </p>
+      <p>
+        My tech company, <b>TechOrbit</b>, is the launchpad for next-gen decentralized products like <b>FileXcoin</b>. While others are adapting to the future, I am already building it.
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br>
 
-<h3 align="center">⚡ 𝐓𝐞𝐜𝐡 𝐀𝐫𝐬𝐞𝐧𝐚𝐥</h3>
+<h3 align="center">⚡ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 (𝐂𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞𝐬)</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Clean, Dark-mode friendly floating icons -->
-    <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,linux,git,github,vscode,docker,bash,nodejs,express,mongodb,mysql&perline=8" alt="Tech Stack" />
+    <!-- Clean, Floating, Dark-mode optimized skills -->
+    <img src="https://skillicons.dev/icons?i=react,ts,js,python,linux,git,docker,bash,aws,gcp&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐓𝐞𝐥𝐞𝐦𝐞𝐭𝐫𝐲 (𝐍𝐞𝐨𝐧 𝐄𝐝𝐢𝐭𝐢𝐨𝐧)</h3>
-
-<!-- Fixed Stats with Custom Neon Colors (Cyan & Mint Green) matching GitHub Dark Mode (0D1117) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theafnanahmed&show_icons=true&theme=transparent&hide_border=true&title_color=00FFFF&icon_color=00FF9D&text_color=FFFFFF&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theafnanahmed&layout=compact&theme=transparent&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" alt="Top Languages" />
-</p>
+<h3 align="center">🛰️ 𝐋𝐢𝐯𝐞 𝐓𝐞𝐥𝐞𝐦𝐞𝐭𝐫𝐲</h3>
 
 <p align="center">
-  <!-- Animated Live Activity Graph (Replaced the broken trophies with something much cooler) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theafnanahmed&bg_color=0D1117&color=00FF9D&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <!-- Ultra-minimalist Hacker-style Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=theafnanahmed&show_icons=true&theme=radical&hide_border=true&title_color=00FF9D&text_color=A1A1AA&bg_color=0D1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theafnanahmed&layout=compact&theme=radical&hide_border=true&title_color=00FF9D&text_color=A1A1AA&bg_color=0D1117" height="170" alt="Top Languages" />
 </p>

@@ -2,10 +2,8 @@
 
   <!-- TOP DECK: Animated Cyber Capsule Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:00F5FF,70:00FF9D,100:0D1117&height=220&section=header&text=AFNAN%20AHMED%20KHAN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20%7C%20AI%20System%20Architect%20%7C%20Founder%20@%20TechOrbit&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
-
   <br><br>
-
-  <br><br>
+  
   <br><br>
 
   <!-- Glowing Typing Header SVG -->
@@ -27,8 +25,8 @@
 <br>
 
 
-
 ### ⚡ 𝐒𝐘𝐒𝐓𝐄𝐌_𝐈𝐃𝐄𝐍𝐓𝐈𝐓𝐘 ( 𝐀𝐝𝐦𝐢𝐧 _ Ｐｒｏｆｉｌ𝑒 )
+
 
 <table width="100%">
   <tr>
@@ -68,7 +66,7 @@
 <br><br>
 
 ### ⚙️ 𝐂𝐎𝐑E_𝐌𝐎𝐃𝐔🇱𝐄𝐒 ( 𝐓𝐞𝐜𝐡 _ 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 )
-
+<br>
 <p align="center">
   <b>Core Languages &amp; Scripts:</b><br>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>

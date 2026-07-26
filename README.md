@@ -67,9 +67,7 @@
 <br>
 
 <!-- Local Tech Node Laser Divider -->
-<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
-<br><br>
 
 ### ⚙️ 𝐂𝐎𝐑𝐄_𝐌𝐎𝐃𝐔🇱𝐄𝐒 ( 𝐓𝐞𝐜𝐡 _ 𝐒𝐭𝐚𝐜𝐤 & 𝐓𝐨𝐨𝐥𝐤𝐢𝐭 )
 

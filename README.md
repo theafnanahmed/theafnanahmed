@@ -108,9 +108,6 @@
 
 <br>
 
-<!-- Local Tech Node Laser Divider -->
-<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
-
 <br><br>
 
 ### 🛰️ 𝐋𝐈𝐕𝐄_𝐓𝐄𝐋𝐄𝐌𝐄𝐓𝐑𝐘 & 𝐀𝐍𝐀🇱𝐘𝐓𝐈𝐂𝐒

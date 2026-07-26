@@ -5,12 +5,6 @@
 
   <br><br>
 
- 
-  <br><br>
-
-  
-  <br><br>
-
   <!-- Glowing Typing Header SVG -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=680&lines=%E2%9A%A1+INITIALIZING+AFNAN_OS+v4.0...;%F0%9F%A7%A0+Full-Stack+%26+AI+System+Architect;%F0%9F%9A%80+Founder+%40+TechOrbit;%F0%9F%92%A1+Building+APIShare+%E2%80%A2+Affu+AI+%E2%80%A2+FileXcoin;%F0%9F%8C%90+Welcome+to+the+Digital+Frontier" alt="Terminal Typing Header Animation" />

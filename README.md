@@ -5,8 +5,8 @@
 
   <br><br>
 
-  <!-- Live 24/7 Tech Nodes Network Constellation Banner -->
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px; border: 1px solid #00F5FF;" alt="Tech Nodes Network Constellation Visual" />
+  <!-- Local Tech Nodes Constellation Visual Banner -->
+  <img src="./assets/tech_nodes_mesh.jpg" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px; border: 1px solid #00F5FF;" alt="Tech Nodes Network Constellation Visual" />
 
   <br><br>
 
@@ -33,8 +33,8 @@
 
 <br>
 
-<!-- Animated Laser Node Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Node Mesh Divider" />
+<!-- Local Tech Node Laser Divider -->
+<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
 <br><br>
 
@@ -44,9 +44,9 @@
   <tr>
     <td width="35%" align="center" valign="top">
       <br>
-      <!-- Live Cyber Visual Avatar -->
+      <!-- Generated Cyberpunk Avatar Image -->
       <a href="https://github.com/theafnanahmed">
-        <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=500&q=80" width="200" style="border-radius: 16px; border: 2px solid #00F5FF; box-shadow: 0 0 15px rgba(0,245,255,0.4);" alt="Afnan Visual Feed Cyber Avatar" />
+        <img src="./assets/afnan_avatar.jpg" width="200" style="border-radius: 16px; border: 2px solid #00F5FF; box-shadow: 0 0 15px rgba(0,245,255,0.4);" alt="Afnan Visual Feed Cyber Avatar" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/STATUS-ONLINE%20🟢-00FF9D?style=for-the-badge&labelColor=0D1117" alt="Status Online Badge" />
@@ -76,8 +76,8 @@
 
 <br>
 
-<!-- Animated Laser Node Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Node Mesh Divider" />
+<!-- Local Tech Node Laser Divider -->
+<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
 <br><br>
 
@@ -121,17 +121,18 @@
 
 <br>
 
-<!-- Animated Laser Node Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Node Mesh Divider" />
+<!-- Local Tech Node Laser Divider -->
+<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
 <br><br>
 
-### 🛰️ 𝐋𝐈𝐕𝐄_𝐓𝐄𝐋𝐄𝐌𝐄𝐓𝐑𝐘 & 𝐀𝐍𝐀🇱𝐘𝐓𝐈𝐂𝐒
+### 🛰️ 𝐋𝐈𝐕𝐄_𝐓𝐄🇱𝐄𝐌𝐄𝐓𝐑𝐘 & 𝐀𝐍𝐀🇱𝐘𝐓𝐈𝐂𝐒
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theafnanahmed&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=00FF9D&text_color=E2E8F0&bg_color=0D1117" height="175" alt="GitHub Stats Card" />&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theafnanahmed&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=FF007F&currStreakNum=00FF9D" height="175" alt="Streak Stats Card" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theafnanahmed&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=E2E8F0&bg_color=0D1117" height="175" alt="Top Languages Card" />
+  <!-- Local SVG GitHub Stats Card -->
+  <img src="./assets/github_stats.svg" height="185" alt="Afnan's GitHub Stats Card" />&nbsp;&nbsp;
+  <!-- Local SVG Top Languages Card -->
+  <img src="./assets/top_languages.svg" height="185" alt="Afnan's Top Languages Card" />
 </p>
 
 <!-- Live Animated Activity Graph -->
@@ -141,8 +142,8 @@
 
 <br>
 
-<!-- Animated Laser Node Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Node Mesh Divider" />
+<!-- Local Tech Node Laser Divider -->
+<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
 <br><br>
 
@@ -189,8 +190,8 @@
 
 <br>
 
-<!-- Animated Laser Node Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Laser Node Mesh Divider" />
+<!-- Local Tech Node Laser Divider -->
+<img src="./assets/node_divider.jpg" width="100%" style="max-height: 40px; object-fit: cover; border-radius: 6px;" alt="Node Mesh Laser Divider" />
 
 <br><br>
 

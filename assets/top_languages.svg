@@ -1,0 +1,50 @@
+<svg width="350" height="200" viewBox="0 0 350 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="200" rx="10" fill="#0D1117" stroke="#00FF9D" stroke-width="1.5"/>
+  <style>
+    .header { font-family: 'Orbitron', 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 17px; fill: #00FF9D; }
+    .lang-name { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 13px; fill: #E2E8F0; }
+    .lang-percent { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 12px; fill: #94A3B8; }
+  </style>
+
+  <!-- Title -->
+  <text x="25" y="35" class="header">Most Used Languages</text>
+
+  <!-- Progress Bar Overview -->
+  <g transform="translate(25, 50)">
+    <rect x="0" y="0" width="120" height="10" rx="3" fill="#3776AB"/>
+    <rect x="123" y="0" width="90" height="10" rx="3" fill="#3178C6"/>
+    <rect x="216" y="0" width="50" height="10" rx="3" fill="#F7DF1E"/>
+    <rect x="269" y="0" width="31" height="10" rx="3" fill="#47A248"/>
+  </g>
+
+  <!-- Language List -->
+  <g transform="translate(25, 80)">
+    <!-- Python -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="6" r="6" fill="#3776AB"/>
+      <text x="20" y="10" class="lang-name">Python</text>
+      <text x="240" y="10" class="lang-percent">40.0%</text>
+    </g>
+
+    <!-- TypeScript -->
+    <g transform="translate(0, 25)">
+      <circle cx="6" cy="6" r="6" fill="#3178C6"/>
+      <text x="20" y="10" class="lang-name">TypeScript</text>
+      <text x="240" y="10" class="lang-percent">30.0%</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(0, 50)">
+      <circle cx="6" cy="6" r="6" fill="#F7DF1E"/>
+      <text x="20" y="10" class="lang-name">JavaScript</text>
+      <text x="240" y="10" class="lang-percent">18.0%</text>
+    </g>
+
+    <!-- HTML & Other -->
+    <g transform="translate(0, 75)">
+      <circle cx="6" cy="6" r="6" fill="#47A248"/>
+      <text x="20" y="10" class="lang-name">HTML &amp; Other</text>
+      <text x="240" y="10" class="lang-percent">12.0%</text>
+    </g>
+  </g>
+</svg>

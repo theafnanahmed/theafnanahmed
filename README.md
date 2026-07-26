@@ -5,9 +5,7 @@
 
   <br><br>
 
-  <!-- Local High-Res Tech Nodes Constellation Visual Banner -->
-  <img src="./assets/tech_nodes_mesh.jpg" width="100%" style="max-height: 220px; object-fit: cover; border-radius: 12px; border: 1px solid #00F5FF;" alt="Tech Nodes Network Constellation Visual" />
-
+ 
   <br><br>
 
   <!-- Animated Holographic Core GIF -->

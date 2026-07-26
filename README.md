@@ -8,9 +8,7 @@
  
   <br><br>
 
-  <!-- Animated Holographic Core GIF -->
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="160" alt="3D Cyber Holographic Core" />
-
+  
   <br><br>
 
   <!-- Glowing Typing Header SVG -->
